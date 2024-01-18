@@ -73,6 +73,6 @@ void f_rotl(stack_t **head, unsigned int counter);
 void f_rotr(stack_t **head, __attribute__((unused)) unsigned int counter);
 void plusnode(stack_t **head, int n);
 void addqueue(stack_t **head, int n);
-void f_queue(stack_t **head, unsigned int counter);
+void p_queue(stack_t **head, unsigned int counter);
 void f_stack(stack_t **head, unsigned int counter);
 #endif
